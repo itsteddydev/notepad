@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Roboto Variable', sans-serif;
+  background: #F9FAFB;
+}
